@@ -1,10 +1,15 @@
-# Title (replace with your title)
+# Regex Tutorial by Terry Kim
 
-Introductory paragraph (replace this with your text)
+This is a standard tutorial in order to understand the concept of Regex, aka regular expression. Regex is a special text string for describing a search pattern. Inside a code or search algorithms,
+regular expressions can be used to find a specific pattern of characters within the string.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+We will be discussing individual components of Regex and also Hex Values.
+
+We will use the following regex expression to define and determine its individual components.
+
+
 
 ## Table of Contents
 
@@ -24,11 +29,22 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ### Anchors
 
+The anchors are components to start and end a string. 
+
 ### Quantifiers
+
+Quantifiers are components that communicate with the regex engine and must match the quantity of the characters of the expression going to the left.
+There are two types of quantifiers: Greedy and Lazy
+
+
 
 ### OR Operator
 
+The OR operator is a boolean that matches with either the left or the right of the expression.
+
 ### Character Classes
+
+Character classes are just ways to match a specific amount of set characters.
 
 ### Flags
 
