@@ -66,5 +66,8 @@ In our expression, we are using [a-f0-9] multiple times to have a literal letter
 
 ## Author
  
+My name is Terry Kim. Coding was one of the biggest interest I had growing up and I love trying projects and seeing how the end results came together. 
+You can check out my github for all the projects I have done and any future projects for my future!
+
 https://github.com/TeryKing
 
